@@ -3,4 +3,4 @@ This is the official code repository for the paper: CCC: Multi-stage Sign Langua
 
 Due to the considerable amount of other work to be completed recently, the relevant code for this article will be released gradually. Please stay tuned for our updates.
 
-You can first visit the project homepage website to view the demonstration video of the sign language generation effects in this study:https://pretty-natural-satyr.ngrok-free.app
+You can first visit the project homepage website to view the demonstration video of the sign language generation effects in this study:http://www.isme.ln.cn:5000/
